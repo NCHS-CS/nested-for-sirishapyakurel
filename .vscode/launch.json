@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Nested",
+            "request": "launch",
+            "mainClass": "Nested",
+            "projectName": "nested-for-sirishapyakurel_15e4c27e"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
